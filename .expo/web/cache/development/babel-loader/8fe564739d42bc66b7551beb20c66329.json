@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { addDemo } from \"./demo\";","map":{"version":3,"sources":["D:/JCOOO/store/actions/index.js"],"names":["addDemo"],"mappings":"AACA,SAASA,OAAT","sourcesContent":["// export { increase, decrease, fetchList } from \"./count\";\r\nexport { addDemo } from \"./demo\";\r\n"]},"metadata":{},"sourceType":"module"}

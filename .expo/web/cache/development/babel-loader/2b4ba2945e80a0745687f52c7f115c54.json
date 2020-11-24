@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  demo: 1\n};","map":{"version":3,"sources":["D:/JCOOO/store/state/demo/index.js"],"names":["demo"],"mappings":"AAAA,eAAe;AACXA,EAAAA,IAAI,EAAE;AADK,CAAf","sourcesContent":["export default {\r\n    demo: 1\r\n}"]},"metadata":{},"sourceType":"module"}
